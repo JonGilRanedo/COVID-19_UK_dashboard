@@ -2,6 +2,7 @@ Jupyterlab
 Pandas
 Numpy
 Matplotlib
+Folium
 Seaborn
 Plotly
 Chart_studio
