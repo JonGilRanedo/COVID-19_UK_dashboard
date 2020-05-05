@@ -1,0 +1,7 @@
+Jupyterlab
+Pandas
+Numpy
+Seaborn
+Plotly
+Ipywidgets
+voila
