@@ -1,7 +1,10 @@
 Jupyterlab
 Pandas
 Numpy
+Matplotlib
 Seaborn
 Plotly
+Chart_studio
+Plotly.express
 Ipywidgets
 voila
