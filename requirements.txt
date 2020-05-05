@@ -1,11 +1,2 @@
-jupyterlab
-pandas
-numpy
-matplotlib
-folium
-seaborn
-plotly
-chart_studio
-plotly.express
-ipywidgets
-voila
+py==1.8.0
+conda==4.8.3
